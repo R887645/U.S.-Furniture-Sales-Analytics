@@ -1,12 +1,12 @@
 ## Action
-1. **Data Cleaning & Preparation
+1. ***Data Cleaning & Preparation
 - Processed and cleaned over 5,000 rows of car listings using Excel and Power Query.
 - Replaced foreign car models with Toyota Corolla and Tundra, popular in Ibadan and Lagos, for local market relevance.
 - Removed duplicates and null values, standardized headers, and formatted mileage and pricing fields.
 - Validated key columns including Car Brand, Price, Transmission Type, and Location.
 - Imported the refined dataset into Power BI for visualization and dashboard creation.
 
-2. **Data Analysis & Visualization
+2. ***Data Analysis & Visualization
 - Created visuals for average price, mileage distribution, engine size, and horsepower.
 - Designed dashboards comparing manual vs. automatic transmissions, location-based sales, and color preferences.
 - Used filters and slicers to allow interactive exploration of car market dynamics across major Nigerian cities.
