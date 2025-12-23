@@ -11,6 +11,8 @@
 - Designed dashboards comparing manual vs. automatic transmissions, location-based sales, and color preferences.
 - Used filters and slicers to allow interactive exploration of car market dynamics across major Nigerian cities.
 
+![My image description](https://github.com/R887645/U.S.-Furniture-Sales-Analytics/blob/main/Real%20Furniture%20dashboard.png?raw=true)
+
 ## Key Metrics:
 - Average Car Price: ₦5M
 - Average Mileage: 28.4K km
